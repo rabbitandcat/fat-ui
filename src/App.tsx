@@ -7,9 +7,9 @@ function App() {
 
   return (
     <div className="App">
-      <Button disabled>Hello</Button>
-      <Button btnType={ButtonType.Primary} size={ButtonSize.Large}>Hello</Button>
-      <Button btnType={ButtonType.Link} href='http://www.baidu.com' disabled>Baidu Link</Button>
+      <Button className='custom'>Hello</Button>
+      <Button btnType={'primary'} size={'lg'}>Hello</Button>
+      <Button btnType={'link'} href='http://www.baidu.com'>Baidu Link</Button>
     </div>
   )
 }
