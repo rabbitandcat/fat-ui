@@ -1,15 +1,21 @@
 import React, { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import Button, { ButtonType, ButtonSize } from './components/button/button'
+import Button from './components/Button'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className="App">
-      <Button className='custom'>Hello</Button>
-      <Button btnType={'primary'} size={'lg'}>Hello</Button>
-      <Button btnType={'link'} href='http://www.baidu.com'>Baidu Link</Button>
+      <Button>哈哈</Button>
+      <Button disabled>哈哈</Button>
+      <Button size='lg'>哈哈</Button>
+      <Button size='sm'>哈哈</Button>
+      <Button btnType='primary'>哈哈</Button>
+      <Button btnType='danger'>哈哈</Button>
+      <Button btnType='link'>哈哈</Button>
+      <Button onClick={() => alert('haha')}>哈哈</Button>
+      <Button autoFocus>哈哈</Button>
     </div>
   )
 }
