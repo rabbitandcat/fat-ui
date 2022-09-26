@@ -1,5 +1,5 @@
 <div>
-<img src="./src/assets/Fat-UI.png">
+<img src="./src/assets/logo.png">
 </div>
 
 
