@@ -20,18 +20,18 @@ Fat-UI 是一个 React UI组件库，主要使用 TypeScript 编写
 * [x] Alert 弹窗组件
 * [x] Button 按钮组件
 * [x] Menu 菜单组件
+* [x] Transition 动画过渡组件
+* [x] Upload 上传文件组件
+* [x] Form 表单组件
+* [x] Progress 进度条组件
+* [x] Input 输入框组件
 
 
 
 # 📌待办
 
-* [ ] Input 输入框组件
 * [ ] Icon 图标组件
 * [ ] Tab 标签组件
-* [ ] Transition 动画过渡组件
-* [ ] Upload 上传文件组件
-* [ ] Form 表单组件
-* [ ] Progress 进度条组件
 * [ ] Select 选择框组件
 
 # 💎演示

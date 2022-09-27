@@ -16,18 +16,18 @@ Fat-UI is a library of React UI components, written primarily in TypeScript
 * [x] Alert pop-up component
 * [x] Button component
 * [x] Menu component
+* [x] Transition component
+* [x] Upload component
+* [x] Form component
+* [x] Progress component
+* [x] Input component
 
 
 
 # 📌Todo
 
-* [ ] Input component
 * [ ] Icon component
 * [ ] Tab component
-* [ ] Transition component
-* [ ] Upload component
-* [ ] Form component
-* [ ] Progress component
 * [ ] Select component
 
 # 💎Demo
